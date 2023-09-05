@@ -1,0 +1,13 @@
+.biger{
+    display: flex;
+    flex-direction: column;
+}
+.spanner{
+    font-size: large;
+}
+.homer{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

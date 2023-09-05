@@ -1,0 +1,24 @@
+
+
+
+
+.circle{
+    background: #52ab84;
+    width: 36px ;
+    height: 36px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center !important;
+    padding: 13px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    margin-right: 15px ;
+  
+
+
+}
+.icon{
+    padding-left: 50px;
+}

@@ -1,0 +1,76 @@
+.main-adobe{
+    padding-top: 100px;
+    
+
+}
+.tag-tem{
+    background-color: rgba(239, 241, 243, 1);  
+    padding: 6px 15px;
+    border-radius: 3px;
+
+}
+.card-of{
+    border-bottom: 1px solid  rgb(184, 187, 190);
+}
+.search-result{
+    padding: 15px 10px;
+    border: 1px solid rgb(184, 187, 190);
+}
+.title-style{
+    font-size: 18px;
+    width: 507px;
+    height: 22px;
+}
+
+
+.link-adobe{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.descrip{
+    font-size: 14px;
+    width: 784px;
+    height: 34px;
+}
+.ad-fle{
+    display:flex ;
+    flex-direction: row;
+    justify-content: end;
+    align-content: end;
+    width: 100%;
+}
+.h-1{
+    font-size: 14px;
+    font-weight: 500;
+
+
+    
+}
+.locale{
+    font-size: 12px;
+
+}
+.h-15{
+    font-size: 14px;
+    font-weight: 500;
+}
+.globale{
+    font-size: 12px;
+    
+}.im-class{
+    width: 33px;
+    object-fit: contain;
+}
+
+.ador-d {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    gap: 35px;
+}

@@ -1,0 +1,15 @@
+/* .wrapper-r{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+    width: 70%;
+
+
+} */
+.coller{
+    padding-right: 2px;
+}
+.item-t{
+    background-color: rgba(239, 241, 243, 1);
+}

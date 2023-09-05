@@ -1,0 +1,17 @@
+.datas{
+    font-size: 18px;
+    height: 44px;
+}
+.data-tage{
+    background-color: rgba(239, 241, 243, 1);  
+    padding: 6px 15px;
+    border-radius: 3px;
+    margin: 7px;
+}
+
+.color-d{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: auto;
+}

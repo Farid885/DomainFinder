@@ -1,0 +1,10 @@
+.dropper{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rgba(82, 171, 132, 1);
+}
+.drop-sty{
+    background-color: white;
+    color: black;
+    /* border: 2px solid black; */
+}

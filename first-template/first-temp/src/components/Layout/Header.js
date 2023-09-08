@@ -7,7 +7,7 @@ const Header = () => {
   const location = useLocation();
 
   return (
-    <div className={`p-4 ${location.pathname === "/" ? "bg-white" :  " bg-success pad-bar "}`}>
+    <div className={`p-4 ${location.pathname === "/" ? "bg-white" :  " colors pad-bar "}`}>
       <nav className="nav-bar">
         <div className="nav-deco">
           <NavLink to={"/"} className="navbar-brand">
@@ -24,6 +24,9 @@ const Header = () => {
               <li className="nav-item">
                 <NavLink className="" activeClassName="active" to="/details">
                   For Developers
+                </NavLink>
+                <NavLink className=""  style={{paddingLeft:'13px'}} activeClassName="active" to="/admin">
+                Admin
                 </NavLink>
               </li>
             </ul>
